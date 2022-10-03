@@ -1,4 +1,4 @@
-##nGewinnt
+## nGewinnt
 Server written in Typescript
 Client written in Flutter
 
@@ -16,4 +16,5 @@ Client written in Flutter
 2. cd to nGewinnt/ngewinntserver
 3. run `npm install`
 4. copy built clientfiles (ngewinntclient/build/web/) to htmlclient
-4. run `npm run dev`
+5. edit app.ts and set infos
+6. run `npm run dev`
